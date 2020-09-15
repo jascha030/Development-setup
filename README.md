@@ -23,26 +23,35 @@ Together with the [Atom Material Icons](https://plugins.jetbrains.com/plugin/100
 **Material UI colors**
 Background 
 ![#212431](https://via.placeholder.com/15/212431/000000?text=+) `#212431`
+
 Foreground
 ![#a6accd](https://via.placeholder.com/15/a6accd/000000?text=+) `#a6accd`
+
 Text
 ![#676e95](https://via.placeholder.com/15/676e95/000000?text=+) `#676e95`
+
 Highlight
 ![#a6accd](https://via.placeholder.com/15/a6accd/000000?text=+) `#a6accd`
+
 Accent
 ![#a59bff](https://via.placeholder.com/15/a59bff/000000?text=+) `#a59bff`
 
 **Code scheme colors**
 Classnames
 ![#ffb833](https://via.placeholder.com/15/ffb833/000000?text=+) `#ffb833`
+
 Strings
 ![#c3e88d](https://via.placeholder.com/15/c3e88d/000000?text=+) `#c3e88d`
+
 Keywords 1
 ![#a59bff](https://via.placeholder.com/15/a59bff/000000?text=+) `#a59bff`
+
 Keywords 2
 ![#ea1479](https://via.placeholder.com/15/ea1479/000000?text=+) `#ea1479`
+
 Method & Function names
 ![#a395cf](https://via.placeholder.com/15/a395cf/000000?text=+) `#a395cf`
+
 Variables
 ![#c3d3de](https://via.placeholder.com/15/c3d3de/000000?text=+) `#c3d3de`
 
