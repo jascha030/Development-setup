@@ -21,10 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="553b9820-db2e-40f1-a060-4646ec15fbbc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jascha030 Palenight.icls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Screenshot_phpstorm.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jascha030-palenight.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE/Jascha030 Palenight.icls" beforeDir="false" afterPath="$PROJECT_DIR$/IDE/Jascha030 Dark.icls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE/jascha030-palenight.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +54,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/IDE" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -69,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600184759152</updated>
       <workItem from="1600184760497" duration="6191000" />
+      <workItem from="1600196169381" duration="528000" />
     </task>
     <servers />
   </component>
@@ -85,6 +87,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="687" y="378" key="SettingsEditor" timestamp="1600195464274">

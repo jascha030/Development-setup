@@ -1,11 +1,11 @@
-<scheme name="Jascha030 Palenight" version="142" parent_scheme="Darcula">
+<scheme name="Jascha030 Dark" version="1">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2020-09-15T17:43:30</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.2.1.0.0</property>
     <property name="modified">2020-09-15T17:43:51</property>
-    <property name="originalScheme">Jascha030 Palenight</property>
+    <property name="originalScheme">Jascha030 Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>

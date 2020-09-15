@@ -1,10 +1,10 @@
 <mtTheme>
-  <id>jascha030-palenight</id>
-  <editorColorsScheme>Jascha030 Palenight</editorColorsScheme>
+  <id>jascha030-dark</id>
+  <editorColorsScheme>Jascha030 Dark</editorColorsScheme>
   <dark>true</dark>
-  <name>Jascha030 Palenight</name>
+  <name>Jascha030 Dark</name>
   <colors>
-    <color id="background" value="212431"/>
+    <color id="background" value="212431ff"/>
     <color id="foreground" value="a6accdff"/>
     <color id="text" value="676e95ff"/>
     <color id="highlight" value="444267ff"/>
@@ -18,8 +18,8 @@
     <color id="secondBorder" value="2b2a3eff"/>
     <color id="treeSelection" value="676e9550"/>
     <color id="notifications" value="202331ff"/>
-    <color id="accent" value="89ddffff"/>
+    <color id="accent" value="a59bffff"/>
     <color id="excluded" value="2f2e43ff"/>
   </colors>
-  <themeId>jascha030-palenight</themeId>
+  <themeId>jascha030-dark</themeId>
 </mtTheme>
