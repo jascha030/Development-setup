@@ -31,11 +31,11 @@
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="ffcc00" />
     <option name="CARET_ROW_COLOR" value="232235" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="292d3e" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="212431" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
-    <option name="DOCUMENTATION_COLOR" value="292d3e" />
+    <option name="DOCUMENTATION_COLOR" value="212431" />
     <option name="DOC_COMMENT_GUIDE" value="4c5374" />
     <option name="DOC_COMMENT_LINK" value="89ddf7" />
     <option name="FILESTATUS_ADDED" value="c3e88d" />
@@ -55,9 +55,9 @@
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="c792ea" />
-    <option name="GUTTER_BACKGROUND" value="292d3e" />
+    <option name="GUTTER_BACKGROUND" value="212431" />
     <option name="INDENT_GUIDE" value="4e5579" />
-    <option name="INFORMATION_HINT" value="292d3e" />
+    <option name="INFORMATION_HINT" value="212431" />
     <option name="LINE_NUMBERS_COLOR" value="4c5374" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="676e95" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
@@ -67,7 +67,7 @@
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="NOT_CHANGED" value="676e95" />
     <option name="PROMOTION_PANE" value="202331" />
-    <option name="QUESTION_HINT" value="292d3e" />
+    <option name="QUESTION_HINT" value="212431" />
     <option name="RECENT_LOCATIONS_SELECTION" value="202331" />
     <option name="RIGHT_MARGIN_COLOR" value="4e5579" />
     <option name="SELECTED_INDENT_GUIDE" value="ab47bc" />
@@ -77,21 +77,21 @@
     <option name="SEPARATOR_BELOW_COLOR" value="4e5579" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="424865" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="ab47bcc0" />
-    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="292d3e" />
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="212431" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="ab47bc80" />
-    <option name="ScrollBar.Mac.Transparent.trackColor" value="292d3e" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="212431" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="ab47bc" />
-    <option name="ScrollBar.Mac.hoverTrackColor" value="292d3e" />
+    <option name="ScrollBar.Mac.hoverTrackColor" value="212431" />
     <option name="ScrollBar.Mac.thumbColor" value="ab47bcc0" />
-    <option name="ScrollBar.Mac.trackColor" value="292d3e" />
+    <option name="ScrollBar.Mac.trackColor" value="212431" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="ab47bcc0" />
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="292d3e" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="212431" />
     <option name="ScrollBar.Transparent.thumbColor" value="ab47bc80" />
-    <option name="ScrollBar.Transparent.trackColor" value="292d3e" />
+    <option name="ScrollBar.Transparent.trackColor" value="212431" />
     <option name="ScrollBar.hoverThumbColor" value="ab47bc" />
-    <option name="ScrollBar.hoverTrackColor" value="292d3e" />
+    <option name="ScrollBar.hoverTrackColor" value="212431" />
     <option name="ScrollBar.thumbColor" value="ab47bcc0" />
-    <option name="ScrollBar.trackColor" value="292d3e" />
+    <option name="ScrollBar.trackColor" value="212431" />
     <option name="TAB_UNDERLINE" value="ab47bc" />
     <option name="TAB_UNDERLINE_INACTIVE" value="ab47bcc0" />
     <option name="TEARLINE_COLOR" value="4e5579" />
@@ -204,7 +204,7 @@
     <option name="BREADCRUMBS_DEFAULT">
       <value>
         <option name="FOREGROUND" value="959dcb" />
-        <option name="BACKGROUND" value="292d3e" />
+        <option name="BACKGROUND" value="212431" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
@@ -216,7 +216,7 @@
     <option name="BREADCRUMBS_INACTIVE">
       <value>
         <option name="FOREGROUND" value="676e95" />
-        <option name="BACKGROUND" value="292d3e" />
+        <option name="BACKGROUND" value="212431" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -305,7 +305,7 @@
     </option>
     <option name="CONSOLE_OUTPUT">
       <value>
-        <option name="BACKGROUND" value="292d3e" />
+        <option name="BACKGROUND" value="212431" />
       </value>
     </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
@@ -3072,17 +3072,17 @@
     </option>
     <option name="REST.FIXED">
       <value>
-        <option name="BACKGROUND" value="292d3e" />
+        <option name="BACKGROUND" value="212431" />
       </value>
     </option>
     <option name="REST.INLINE">
       <value>
-        <option name="BACKGROUND" value="292d3e" />
+        <option name="BACKGROUND" value="212431" />
       </value>
     </option>
     <option name="REST.INTERPRETED">
       <value>
-        <option name="BACKGROUND" value="292d3e" />
+        <option name="BACKGROUND" value="212431" />
       </value>
     </option>
     <option name="RHTML_EXPRESSION_END_ID">
@@ -3187,7 +3187,7 @@
     <option name="RUBY_HEREDOC_CONTENT">
       <value>
         <option name="FOREGROUND" value="959dcb" />
-        <option name="BACKGROUND" value="292d3e" />
+        <option name="BACKGROUND" value="212431" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -3606,7 +3606,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="959dcb" />
-        <option name="BACKGROUND" value="292d3e" />
+        <option name="BACKGROUND" value="212431" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -3679,7 +3679,7 @@
     </option>
     <option name="VELOCITY_SCRIPTING_BACKGROUND">
       <value>
-        <option name="BACKGROUND" value="292d3e" />
+        <option name="BACKGROUND" value="212431" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">

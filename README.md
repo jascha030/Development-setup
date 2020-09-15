@@ -1,11 +1,17 @@
-# Intellij IDE color scheme
+# Development setup
+
+A little repo displaying my current development setup. Mainly from a visual point of view.
+This repo is both for myself to remember and to maybe be able to inspire some people on their setup.
+  
+
+## Intellij IDE color scheme
 
 **My Current PhpStorm Color Scheme.**
 
 This scheme based on the [Material Theme UI](https://www.material-theme.com/) `Palenight` color scheme.
 I took this as a basis and over some time changed it to my personal liking.
 
-![Screenshot of PhpStorm](https://github.com/jascha030/Intellij-IDE-Color-Scheme/blob/master/Screenshot.png)
+![Screenshot of PhpStorm](https://github.com/jascha030/Intellij-IDE-Color-Scheme/blob/master/Screenshot_IDE_phpstorm.png)
 
 ### Colors
 
@@ -48,3 +54,11 @@ As **free** alternatives I highly recommend.
 - [Jetbrains Mono](https://www.jetbrains.com/lp/mono) (My current fallback font)
 
 
+<hr>
+
+
+## Hardware
+
+- Macbook Pro (2017) | 13 Inch | 4 Thunderbolt 3 Ports | 3,1 GHz i5 | 8 GB
+- Keychron K2  (Version 2) | White backlight | Brown switches
+- iiyama ProLite XUB3493WQSU-B1

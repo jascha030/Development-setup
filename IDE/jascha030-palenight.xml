@@ -4,7 +4,7 @@
   <dark>true</dark>
   <name>Jascha030 Palenight</name>
   <colors>
-    <color id="background" value="292d3eff"/>
+    <color id="background" value="212431"/>
     <color id="foreground" value="a6accdff"/>
     <color id="text" value="676e95ff"/>
     <color id="highlight" value="444267ff"/>
