@@ -70,8 +70,23 @@ The font I use is [**Dank Mono**](https://gumroad.com/l/dank-mono), it's _beauti
 
 <hr>
 
-# iTerm2 Profile
+## Terminal (iTerm2) profiles
 
+### Main / Hotkey window
+
+![Screenshot of PhpStorm](https://github.com/jascha030/Development-setup/blob/master/Screenshot_iterm_main.png)
+
+My **main** hotkey window, also uses _palenight_ inspired colors and a **clean** look for **focus** and _maximum effectiveness_ (don't quote me on that).
+
+
+### Feeling frisky (or spacey) window
+
+![Screenshot of PhpStorm](https://github.com/jascha030/Development-setup/blob/master/Screenshot_iterm_space.png)
+
+I for the life of me can't remember where I found that background (somewhere on twitter?), but shout-out to that guy 😅.
+
+
+<hr>
 
 
 ## Current hardware
