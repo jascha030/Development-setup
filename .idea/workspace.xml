@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="553b9820-db2e-40f1-a060-4646ec15fbbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jascha030-palenight.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jascha030 Palenight.icls" beforeDir="false" afterPath="$PROJECT_DIR$/Jascha030 Palenight.icls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="MTCustomThemeConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -66,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600184759152</updated>
-      <workItem from="1600184760497" duration="2534000" />
+      <workItem from="1600184760497" duration="3114000" />
     </task>
     <servers />
   </component>
@@ -85,9 +84,9 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="1229" y="381" key="SettingsEditor" timestamp="1600187261695">
+    <state x="1229" y="381" key="SettingsEditor" timestamp="1600187498741">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state x="1229" y="381" key="SettingsEditor/0.23.3440.1417@0.23.3440.1417" timestamp="1600187261695" />
+    <state x="1229" y="381" key="SettingsEditor/0.23.3440.1417@0.23.3440.1417" timestamp="1600187498741" />
   </component>
 </project>
