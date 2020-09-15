@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="553b9820-db2e-40f1-a060-4646ec15fbbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jascha030-palenight.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jascha030 Palenight.icls" beforeDir="false" afterPath="$PROJECT_DIR$/Jascha030 Palenight.icls" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -52,6 +53,11 @@
     <property name="settings.editor.selected.configurable" value="MTCustomThemeConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600184759152</updated>
-      <workItem from="1600184760497" duration="2290000" />
+      <workItem from="1600184760497" duration="2534000" />
     </task>
     <servers />
   </component>
@@ -79,9 +85,9 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="1229" y="381" key="SettingsEditor" timestamp="1600186817281">
+    <state x="1229" y="381" key="SettingsEditor" timestamp="1600187261695">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state x="1229" y="381" key="SettingsEditor/0.23.3440.1417@0.23.3440.1417" timestamp="1600186817281" />
+    <state x="1229" y="381" key="SettingsEditor/0.23.3440.1417@0.23.3440.1417" timestamp="1600187261695" />
   </component>
 </project>
