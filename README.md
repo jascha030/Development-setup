@@ -1,10 +1,22 @@
 # Development setup 
 
-A little repo displaying my current development setup. Mainly from a **visual** point of view.
-This repo is both _for myself to remember_ (I put a little too much time and effort in this sh*t) and to be able to maybe **inspire** other people on their setup.
-And also, _I like geeking-out on this stuff..._
-  
-> I'm not a designer or a front-end developer, but still like it when things look góóóód
+A little repo displaying my current setup. Mainly from a **visual** point of view.
+Both _for myself to remember_ (Put a little too much time and effort in this sh*t) and to be able to maybe **inspire** other people on their setup.
+Also, _I like geeking-out on this stuff..._
+
+<br />
+
+<hr>
+
+<br />  
+ 
+<p style="text-align:center">"I'm not a designer or a front-end developer, but I still like it when things look góóóód."</p>
+
+<br />
+
+<hr>
+
+<br />
 
 ## Intellij IDE color scheme
 
@@ -64,11 +76,14 @@ Together with the [Atom Material Icons](https://plugins.jetbrains.com/plugin/100
 
 The font I use is [**Dank Mono**](https://gumroad.com/l/dank-mono), it's _beautiful_ but **not free**.
 
->As **Free** alternatives I recommend.
->- [Fira Code](https://github.com/tonsky/FiraCode) (My favorite free monospace font)
->- [Jetbrains Mono](https://www.jetbrains.com/lp/mono) (My current fallback font)
+As **Free** alternatives I recommend.
 
+- [Fira Code](https://github.com/tonsky/FiraCode) (My favorite free monospace font)
+- [Jetbrains Mono](https://www.jetbrains.com/lp/mono) (My current fallback font)
+
+<br /> 
 <hr>
+<br />
 
 ## Terminal (iTerm2) profiles
 
@@ -92,9 +107,7 @@ As you can see in the images, i'm using the ever so popular **iTerm2** + **Zsh**
 When interested in that **you should probably google that...** There's a **boatload** of people who can explain that stuff a whole lot better than _this rinkeydink Git repo o' mine_.
 Also these screenshots just made me realise I have **101** packages installed on **brew**.
 
-<hr>
-
-Speaking of packages
+_Speaking of packages..._
 
 ## Make your life better by using
 
@@ -121,7 +134,21 @@ To finish it off nicely
 > Also 2x KRK Rokit 6 Nearfield monitor speakers | Magnat Vector Sub 30 Aktiv Subwoofer | Focusrite Scarlett 18i20 Audio interface | Not that anyone asked but without some tunes I can't function like a normal human being...
 
 
-<hr> 
 
+## Final thoughts
 
-_I don't know why I like making this kind of lists, post-rona boredom has not been good to me._
+These are some of my essentials.
+Just because I like writing exercises and am kind of a hoarder who is always trying to find structure in simple things.
+
+I've encountered many repo's like this one in my _neverending quest for the perfect setup_. 
+In addition to me trying to keep a `.dotfiles` repo up to date, I thought I might one day add a repo like this when I'm bored. I myself enjoy looking at this kind of stuff. 
+Also other developers repo's like these have helped me considerably in creating my own personal setup.
+ 
+If you like any of the software etc. in this list. 
+**Consider supporting the developers.** I try to include links... **Don't hate, donate!**
+
+<br />
+<hr>
+<br />
+
+<p style="text-align:center">"As you can see, this post-rona boredom has not been particularly well on brain."</p>
