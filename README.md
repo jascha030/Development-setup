@@ -1,8 +1,10 @@
-# Development setup
+# Development setup 
 
-A little repo displaying my current development setup. Mainly from a visual point of view.
-This repo is both for myself to remember and to maybe be able to inspire some people on their setup.
+A little repo displaying my current development setup. Mainly from a **visual** point of view.
+This repo is both _for myself to remember_ (I put a little too much time and effort in this sh*t) and to be able to maybe **inspire** other people on their setup.
+And also, _I like geeking-out on this stuff..._
   
+> I'm not a designer or a front-end developer, but still like it when the things I look at every day look good.
 
 ## Intellij IDE color scheme
 
@@ -20,52 +22,42 @@ Together with the [Atom Material Icons](https://plugins.jetbrains.com/plugin/100
 
 ### Colors
 
+
 **Material UI colors**
 
-Background 
+![#212431](https://via.placeholder.com/15/212431/000000?text=+) `#212431` Background
 
-![#212431](https://via.placeholder.com/15/212431/000000?text=+) `#212431`
 
-Foreground
+![#a6accd](https://via.placeholder.com/15/a6accd/000000?text=+) `#a6accd` Foreground
 
-![#a6accd](https://via.placeholder.com/15/a6accd/000000?text=+) `#a6accd`
 
-Text
+![#676e95](https://via.placeholder.com/15/676e95/000000?text=+) `#676e95` Text
 
-![#676e95](https://via.placeholder.com/15/676e95/000000?text=+) `#676e95`
 
-Highlight
+![#a6accd](https://via.placeholder.com/15/a6accd/000000?text=+) `#a6accd` Highlight
 
-![#a6accd](https://via.placeholder.com/15/a6accd/000000?text=+) `#a6accd`
 
-Accent
+![#a59bff](https://via.placeholder.com/15/a59bff/000000?text=+) `#a59bff` Accent
 
-![#a59bff](https://via.placeholder.com/15/a59bff/000000?text=+) `#a59bff`
 
 **Code scheme colors**
 
-Classnames
+![#ffb833](https://via.placeholder.com/15/ffb833/000000?text=+) `#ffb833` Classnames
 
-![#ffb833](https://via.placeholder.com/15/ffb833/000000?text=+) `#ffb833`
 
-Strings
+![#c3e88d](https://via.placeholder.com/15/c3e88d/000000?text=+) `#c3e88d` Strings
 
-![#c3e88d](https://via.placeholder.com/15/c3e88d/000000?text=+) `#c3e88d`
 
-Keywords 1
+![#a59bff](https://via.placeholder.com/15/a59bff/000000?text=+) `#a59bff` Keywords 1
 
-![#a59bff](https://via.placeholder.com/15/a59bff/000000?text=+) `#a59bff`
 
-Keywords 2
+![#ea1479](https://via.placeholder.com/15/ea1479/000000?text=+) `#ea1479` Keywords 2
 
-![#ea1479](https://via.placeholder.com/15/ea1479/000000?text=+) `#ea1479`
 
-Method & Function names
+![#a395cf](https://via.placeholder.com/15/a395cf/000000?text=+) `#a395cf` Method & Function names
 
-![#a395cf](https://via.placeholder.com/15/a395cf/000000?text=+) `#a395cf`
 
-Variables
-![#c3d3de](https://via.placeholder.com/15/c3d3de/000000?text=+) `#c3d3de`
+![#c3d3de](https://via.placeholder.com/15/c3d3de/000000?text=+) `#c3d3de` Variables
 
 
 ### Fonts
@@ -82,8 +74,12 @@ The font I use is [**Dank Mono**](https://gumroad.com/l/dank-mono), it's _beauti
 
 
 
-## Hardware
+## Current hardware
 
-- Macbook Pro (2017) | 13 Inch | 4 Thunderbolt 3 Ports | 3,1 GHz i5 | 8 GB
-- Keychron K2  (Version 2) | White backlight | Brown switches
-- iiyama ProLite XUB3493WQSU-B1
+- **Macbook Pro** (2017) | 13 Inch | 4 Thunderbolt 3 Ports | 3,1 GHz i5 | 8 GB
+- **Keychron K2** (Version 2) | White backlight | Brown switches | For home
+- **Apple Magic Keyboard** | When at work 
+- **Apple Magic Mouse and Trackpad** | switching between them because I like to pretend it's giving me less strain injury.
+- **iiyama ProLite XUB3493WQSU-B1** | Widescreen monitor
+
+> Also 2x KRK Rokit 6 Nearfield monitor speakers | Magnat Vector Sub 30 Aktiv Subwoofer | Focusrite Scarlett 18i20 Audio interface | Not that anyone asked but without some tunes I can't function like a normal human being...
