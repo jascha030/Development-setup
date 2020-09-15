@@ -4,7 +4,7 @@ A little repo displaying my current development setup. Mainly from a **visual** 
 This repo is both _for myself to remember_ (I put a little too much time and effort in this sh*t) and to be able to maybe **inspire** other people on their setup.
 And also, _I like geeking-out on this stuff..._
   
-> I'm not a designer or a front-end developer, but still like it when the things I look at every day look good.
+> I'm not a designer or a front-end developer, but still like it when things look góóóód
 
 ## Intellij IDE color scheme
 
@@ -79,17 +79,38 @@ The font I use is [**Dank Mono**](https://gumroad.com/l/dank-mono), it's _beauti
 My **main** hotkey window, also uses _palenight_ inspired colors and a **clean** look for **focus** and _maximum effectiveness_ (don't quote me on that).
 
 
-### Feeling frisky (or spacey) window
+### Feeling frisky window
 
 ![Screenshot of PhpStorm](https://github.com/jascha030/Development-setup/blob/master/Screenshot_iterm_space.png)
 
 I for the life of me can't remember where I found that background (somewhere on twitter?), but shout-out to that guy 😅.
 
 
+### Other specs
+
+As you can see in the images, i'm using the ever so popular **iTerm2** + **Zsh** + **Oh-my-zsh** + **Powerlvl10k** (prev. Powerlvl9k) **Wombo-combo**.
+When interested in that **you should probably google that...** There's a **boatload** of people who can explain that stuff a whole lot better than _this rinkeydink Git repo o' mine_.
+Also these screenshots just made me realise I have **101** packages installed on **brew**.
+
 <hr>
 
+Speaking of packages
+
+## Make your life better by using
+
+- **Brew** | For all your general purpose **hackerman** business
+- **Brew Cask** | For mac **software** / apps
+- **Mas** | For downloading actual Mac **Appstore apps**
+- **NPM** | Nodejs dependencies (Might cost you a year or two on your life expectency) - apparently Yarn is better, but I'm not too invested
+- **Nvm** | Managing Npm versions is a _giant tw*t_ of a task
+- **Pyenv** | Managing python versions
+- **Composer** | Php packages
+
+> Don't you go strollin' around that dangerous internet clickin' crooked links and straining your beloved fingers. You might get seriously hurt one day...
 
 ## Current hardware
+
+To finish it off nicely
 
 - **Macbook Pro** (2017) | 13 Inch | 4 Thunderbolt 3 Ports | 3,1 GHz i5 | 8 GB
 - **Keychron K2** (Version 2) | White backlight | Brown switches | For home
@@ -98,3 +119,9 @@ I for the life of me can't remember where I found that background (somewhere on 
 - **iiyama ProLite XUB3493WQSU-B1** | Widescreen monitor
 
 > Also 2x KRK Rokit 6 Nearfield monitor speakers | Magnat Vector Sub 30 Aktiv Subwoofer | Focusrite Scarlett 18i20 Audio interface | Not that anyone asked but without some tunes I can't function like a normal human being...
+
+
+<hr> 
+
+
+_I don't know why I like making this kind of lists, post-rona boredom has not been good to me._
