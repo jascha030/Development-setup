@@ -1,7 +1,7 @@
 # Development setup 
 
 A little repo displaying my current setup. Mainly from a **visual** point of view.
-Both _for myself to remember_ (Put a little too much time and effort in this sh*t) and to be able to maybe **inspire** other people on their setup.
+Both _for myself to remember_  and to maybe **inspire** others on their setup.
 Also, _I like geeking-out on this stuff..._
 
 <br />
@@ -10,7 +10,7 @@ Also, _I like geeking-out on this stuff..._
 
 <br />  
  
-<p style="text-align:center">"I'm not a designer or a front-end developer, but I still like it when things look góóóód."</p>
+<p align="center">"I'm not a designer, but I still like it when things look góóóód."</p>
 
 <br />
 
@@ -104,12 +104,12 @@ I for the life of me can't remember where I found that background (somewhere on 
 ### Other specs
 
 As you can see in the images, i'm using the ever so popular **iTerm2** + **Zsh** + **Oh-my-zsh** + **Powerlvl10k** (prev. Powerlvl9k) **Wombo-combo**.
-When interested in that **you should probably google that...** There's a **boatload** of people who can explain that stuff a whole lot better than _this rinkeydink Git repo o' mine_.
-Also these screenshots just made me realise I have **101** packages installed on **brew**.
+**You should probably google that...** There's a **boatload** of people who can explain that stuff.
+Also apparently I have **101** packages installed on **brew**.
 
 _Speaking of packages..._
 
-## Make your life better by using
+## Make your life better, using
 
 - **Brew** | For all your general purpose **hackerman** business
 - **Brew Cask** | For mac **software** / apps
@@ -119,7 +119,7 @@ _Speaking of packages..._
 - **Pyenv** | Managing python versions
 - **Composer** | Php packages
 
-> Don't you go strollin' around that dangerous internet clickin' crooked links and straining your beloved fingers. You might get seriously hurt one day...
+> Don't you go strollin' around that dangerous internet clickin' links and strainin' your fingers. You might get seriously hurt one day...
 
 ## Current hardware
 
@@ -138,17 +138,15 @@ To finish it off nicely
 ## Final thoughts
 
 These are some of my essentials.
-Just because I like writing exercises and am kind of a hoarder who is always trying to find structure in simple things.
-
 I've encountered many repo's like this one in my _neverending quest for the perfect setup_. 
-In addition to me trying to keep a `.dotfiles` repo up to date, I thought I might one day add a repo like this when I'm bored. I myself enjoy looking at this kind of stuff. 
-Also other developers repo's like these have helped me considerably in creating my own personal setup.
+In addition to me trying to keep a `.dotfiles` repo up to date, I thought I might one day add a repo like this when I'm bored. 
+Other repo's like this one have helped me considerably in creating my own personal setup.
  
-If you like any of the software etc. in this list. 
-**Consider supporting the developers.** I try to include links... **Don't hate, donate!**
+If you like any of the software etc. in this list.
+**Consider supporting the developers... Don't hate, donate!**
 
 <br />
 <hr>
 <br />
 
-<p style="text-align:center">"As you can see, this post-rona boredom has not been particularly well on brain."</p>
+<p align="center">"Post-rona boredom has not been good on my brain."</p>
