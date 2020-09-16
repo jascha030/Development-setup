@@ -141,12 +141,9 @@ These are some of my essentials.
 I've encountered many repo's like this one in my _neverending quest for the perfect setup_. 
 In addition to me trying to keep a `.dotfiles` repo up to date, I thought I might one day add a repo like this when I'm bored. 
 Other repo's like this one have helped me considerably in creating my own personal setup.
- 
-If you like any of the software etc. in this list.
-**Consider supporting the developers... Don't hate, donate!**
 
 <br />
 <hr>
 <br />
 
-<p align="center">"Post-rona boredom has not been good on my brain."</p>
+<p align="center">"If you like any of the listed software, consider supporting the developers... Don't hate, donate!"</p>
